@@ -3,7 +3,7 @@
 
 
   *Celebrating the spirit, data, and stories of the Olympic Games*
-  https://olympic-da-nzrn.onrender.com/
+  https://olympicda-eh3yzrtayfpeslabyakuqu.streamlit.app/
 
 ---
 
