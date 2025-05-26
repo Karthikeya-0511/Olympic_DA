@@ -1,5 +1,4 @@
-
-  https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/gettyimages-466313493-2?_a=BAVAZGDX0
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.history.com%2Farticles%2Folympic-games&psig=AOvVaw27q2v9yyJVnMHu1_mz56Yl&ust=1748352571317000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiwv4ifwY0DFQAAAAAdAAAAABAE
 
 
 
